@@ -1,0 +1,52 @@
+#container {
+    height: 465px;
+    width: 315px;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin: -200px 0 0 -150px;
+    justify-content: center;
+
+}
+#box {
+
+    background-color: white;
+    border: solid white 13px;
+    border-radius: 14px;
+    width: 290px;
+    height: 450px;
+}
+
+
+body {
+    background-color: rgba(213, 225, 239, 255);
+
+
+}
+
+h1 {
+    font-family: 'Mukta', sans-serif;
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303d56;
+    text-align: center;
+
+
+}
+
+p {
+    color: #7f8690;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+
+
+img {
+    border-radius: 13px;
+    width: 290px;
+    height: 290px;
+}
+
